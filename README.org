@@ -1,0 +1,7 @@
+#+TITLE: ~opencv-test~
+
+* Introduction
+
+  This is only a *test repo* for check ~OpenCV~ environment.
+
+  Use ~GCC~ & ~CMake~ to *compile* ~OpenCV~ program code.
