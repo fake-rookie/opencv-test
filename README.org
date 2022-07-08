@@ -5,3 +5,9 @@
   This is only a *test repo* for check ~OpenCV~ environment.
 
   Use ~GCC~ & ~CMake~ to *compile* ~OpenCV~ program code.
+
+* Screen Shoot
+
+  [[https://github.com/fake-rookie/opencv-test/blob/main/screen1.png]]
+
+  [[https://github.com/fake-rookie/opencv-test/blob/main/screen2.png]]
